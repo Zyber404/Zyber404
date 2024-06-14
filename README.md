@@ -15,4 +15,4 @@
   <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=pytorch&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyber404)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyber404&hide_progress=true)
