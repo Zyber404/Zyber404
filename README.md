@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Zyber</h1>
+<h3 align="left">A current undergraduate student at BUPT</h3>
 
-<!--
-**Zyber404/Zyber404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Image Quality Assesement**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=pytorch&logoColor=white"/>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyber404&show_icons=true&locale=en&count_private=true" alt="zyber404" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zyber404&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
