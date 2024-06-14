@@ -15,5 +15,4 @@
   <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=pytorch&logoColor=white"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyber404&show_icons=true&locale=en&count_private=true" alt="zyber404" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zyber404&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyber404)
