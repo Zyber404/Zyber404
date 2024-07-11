@@ -16,3 +16,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyber404&hide_progress=true&bg_color=00000000&title_color=000000&hide=cmake,pascal)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zyber404&layout=compact)
